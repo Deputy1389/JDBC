@@ -1,0 +1,324 @@
+Antelope Union High School
+Apache Junction High School
+Ash Fork High School
+AZTEC High School
+Bagdad High School
+Benson High School
+San Pedro Valley High School
+Salome High School
+Bisbee High School
+Blue Ridge High School
+Blueprint High School
+Hope High School
+Hope High School Online
+Bowie High School
+Buckeye Union High School
+Estrella Foothills High School
+Youngker High School
+Camp Verde High School
+Academy of Tucson High School
+Agua Fria High School
+Desert Edge High School
+Millennium High School
+Verrado High School
+Ajo High School
+Alta Vista High School
+Apache Trail High School
+Crestview College Preparatory High School
+Desert Hills High School
+Estrella High School
+Peoria Accelerated High School
+South Pointe High School
+South Ridge High School
+Sun Valley High School
+West Phoenix High School
+Amphitheater High School
+Canyon Del Oro High School
+Ironwood Ridge High School
+San Tan Foothills High School
+Calli Ollin High School
+Hiaki High School
+Toltecali High School
+Barry Goldwater High School
+Boulder Creek High School
+Deer Valley High School
+Mountain Ridge High School
+Sandra Day O'Connor High School
+DINE Southwest High School
+Douglas High School
+Duncan High School
+Dysart High School
+Shadow Ridge High School
+Valley Vista High School
+Willow Canyon High School
+Eastpointe High School
+Edge High School - Himmel Park
+EDGE High School - Northwest
+Edge High School - Sahuarita
+EdOptions High School
+El Dorado High School
+Coconino High School
+Flagstaff High School
+Career Success High School - Mesa
+Career Success High School - Glendale
+Career Success High School - Main Campus
+Career Success High School - Robert L. Duffy
+Career Success Jr/Sr High School - North Phoenix
+Career Success Jr/Sr High School - Woods Campus
+Carpe Diem Collegiate High School dba Carpe Diem e-Learning Community
+Casa Grande Union High School
+Casa Verde High School
+Desert Winds High School
+Catalina Foothills High School
+Cactus Shadows High School/PSH
+White Cone High School
+Basha High School
+Chandler High School
+Hamilton High School
+Perry High School
+Chinle High School
+Chino Valley High School
+Clifton High School
+Ponderosa High School
+Tse'yaato' High School
+Mohave High School
+River Valley High School
+Compass High School
+Coolidge High School
+Sinagua High School
+Florence High School
+Poston Butte High School
+Flowing Wells High School
+Sentinel Peak High School
+Fountain Hills High School
+Apollo High School
+Cortez High School
+Glendale High School
+Greenway High School
+Independence High School
+Moon Valley High School
+Sunnyslope High School
+Thunderbird High School
+Washington High School
+Globe High School
+Grand Canyon High School
+Hayden High School
+Mogollon High School
+Higley High School
+Williams Field High School
+Holbrook High School
+International Commerce High School - Tempe
+Bradshaw Mountain High School
+Imagine Preparatory High School at Surprise
+Baboquivari High School
+Humanities and Sciences High School - Phoenix
+International Commerce High School - Phoenix
+Ira H. Hayes High School
+Combs High School
+James Sandoval Preparatory High School
+Joseph City High School
+Monument Valley High School
+Kestrel High School
+Kingman Academy of Learning - High School
+Kingman High School
+Fredonia High School
+Fort Thomas High School
+Ganado High School
+Student Choice High School
+Gila Bend High School
+Gila Preparatory Academy High School
+Campo Verde High School
+Gilbert Classical Academy High School
+Gilbert High School
+Highland High School
+Mesquite High School
+Mesa High School
+Mountain View High School
+Red Mountain High School
+Riverview High School
+Skyline High School
+Superstition High School
+Westwood High School
+Miami High School
+Mingus Union High School
+Mission Academy High School
+Nogales High School
+Pierson Vocational High School
+La Puerta High School
+Oasis High School
+Page High School
+Lake Havasu High School
+Leading Edge Academy High School
+East Valley High School
+Liberty High School
+Beaver Dam High School
+Luz-Guerrero Early College High School
+San Manuel High School
+Marana High School
+Mountain View High School
+Gateway Early College High School
+Teacher Preparation Charter High School
+Maricopa High School
+Tri-City College Prep High School
+Maya High School
+Mayer High School
+Dobson High School
+Horizon High School
+North Canyon High School
+Paradise Valley High School
+Pinnacle High School
+Polaris High School
+Shadow Mountain High School
+Sunrise Mountain High School
+Alhambra High School
+Betty Fairfax High School
+Camelback High School
+Carl Hayden High School
+Central High School
+Cesar Chavez High School
+Franklin Police and Fire High School
+Maryvale High School
+Metro Tech High School
+North High School
+Phoenix Union Bioscience High School
+Phoenix Union Cyber High School
+South Mountain High School
+Trevor Browne High School
+Pima Vocational High School
+Pima High School
+Pinnacle High School - Casa Grande
+Pinnacle Charter High School
+Pinnacle High School - Mesa
+Pinnacle High School - Tempe
+Pinnacle Virtual High School
+Pinnacle Charter High School
+Pinon High School
+Premier Charter High School
+Prescott High School
+Prescott Mile High Middle School
+Presidio High School
+Queen Creek High School
+Ray High School
+Red Mesa High School
+Red Valley/Cove High School
+Round Valley High School
+RSD Charter High School
+Tonopah Valley High School
+Mt Graham High School
+Safford High School
+Sahuarita High School
+Salt River High School
+San Carlos High School
+Paradise Honors High School
+Parker High School
+Patagonia Union High School
+Rimrock Public High School
+Payson Center for Success High School
+Payson High School
+Cactus High School
+Centennial High School
+Ironwood High School
+Liberty High School
+Peoria High School
+Compadre High School
+Corona Del Sol High School
+Desert Vista High School
+Marcos De Niza High School
+Mcclintock High School
+Mountain Pointe High School
+Tempe High School
+Thatcher High School
+Copper Canyon High School
+La Joya Community High School
+Sierra Linda High School
+Tolleson Union High School
+Westview High School
+Tombstone High School
+Tuba City High School
+City High School
+Catalina High Magnet School
+Cholla High Magnet School
+Howenstine High School
+Mary Meredith High School
+Palo Verde High Magnet School
+Pass Alternative High School
+Project More High School
+Pueblo High Magnet School
+Rincon High School
+Sabino High School
+Sahuaro High School
+Santa Rita High School
+Southwest Alternative High School
+Tucson Magnet High School
+University High School
+Valley High School
+Rio Rico High School
+Santa Cruz Valley Union High School
+Arcadia High School
+Chaparral High School
+Coronado High School
+Desert Mountain High School
+Saguaro High School
+Sedona Red Rock High School
+Seligman High School
+Shonto Preparatory Technology High School
+Show Low High School
+Buena High School
+Skyline Technical High School
+Skyview High School
+Snowflake High School
+Southern Arizona Community High School
+St David High School
+St Johns High Schools
+Summit High School
+Desert View High School
+Sunnyside High School
+Superior Senior High School
+Tanque Verde High School
+Tempe Accelerated High School
+ACE Charter High School
+Alternative Computerized Education (ACE) Charter High School
+Cienega High School
+Empire High School
+Pantano High School
+The Vail High School
+Valley Union High School
+Vicki A. Romero High School
+Victory High School - Campus
+Cibola High School
+Gila Ridge High School
+Kofa High School
+San Luis High School
+Yuma High School
+Midtown High School
+Alchesay High School
+Wickenburg Alternative High School
+Wickenburg High School
+Willcox High School
+Williams High School
+Window Rock High School
+Winslow High School
+Yavapai County High School
+Young High School
+
+
+
+
+
+SELECT SchoolName FROM Year2010 where SchoolName Like '% High%School%' and SchoolName not like '%Junior%High%School%' and SchoolName not like '%Jr %High%School%' and SchoolName not like '%Jr.%High%School%' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT SchoolName FROM Year2010 where ((SchoolName Like '% High%School%' or SchoolName Like '% High') and SchoolName not like '%Junior %High%' and SchoolName not like '%Jr %High%' and SchoolName not like '%Jr.%High%' and SchoolName not like '%High%Middle%School%')
+
+
