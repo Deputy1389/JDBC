@@ -1,6 +1,8 @@
 Sean Gallagher
 Program 3
 
+Inserts standaradised testing data to database
+
 Included are multiple files
 
 Java
